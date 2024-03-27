@@ -16,7 +16,8 @@
     "jsdom-global": "^3.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.161.0"
+    "three": "^0.161.0",
+    "@rollup/rollup-linux-x64-gnu": "^4.9.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
@@ -29,8 +30,5 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-  },
-  "resolutions": {
-    "rollup": "npm:@rollup/wasm-node"
   }
 }
